@@ -8,7 +8,6 @@ int n = InputNumbers("Введите неотрицательное число n
 
 int functionAkkerman = Akkerman(m, n);
 Console.Write($"A(m,n) = {functionAkkerman} ");
-
 int Akkerman(int m, int n)
 {
     if(m == 0) return n + 1;
