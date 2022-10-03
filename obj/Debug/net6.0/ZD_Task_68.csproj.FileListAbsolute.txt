@@ -1,0 +1,15 @@
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\bin\Debug\net6.0\ZD_Task_68.exe
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\bin\Debug\net6.0\ZD_Task_68.deps.json
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\bin\Debug\net6.0\ZD_Task_68.runtimeconfig.json
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\bin\Debug\net6.0\ZD_Task_68.dll
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\bin\Debug\net6.0\ZD_Task_68.pdb
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ZD_Task_68.csproj.AssemblyReference.cache
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ZD_Task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ZD_Task_68.AssemblyInfoInputs.cache
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ZD_Task_68.AssemblyInfo.cs
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ZD_Task_68.csproj.CoreCompileInputs.cache
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ZD_Task_68.dll
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\refint\ZD_Task_68.dll
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ZD_Task_68.pdb
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ZD_Task_68.genruntimeconfig.cache
+C:\Users\Vinsent\Desktop\Урок 9_Знакомство с языком программирования С#\ZD_Task_68\obj\Debug\net6.0\ref\ZD_Task_68.dll
